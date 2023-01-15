@@ -5,7 +5,7 @@
             "title": "coba",
             "date": "12/12/2023",
             "desc": "No description" ,
-            "completed": false,
+            "completed": "false",
             "tag": "personal"
         },
         {
@@ -13,7 +13,7 @@
             "title": "coba lagi",
             "date": "12/12/2023",
             "desc":"Lahhh koq error terus jgn error donk kalo error nanti gak jadi2 gmn hahahahas" ,
-            "completed": false,
+            "completed": "false",
             "tag": "personal"
         }
     ]
